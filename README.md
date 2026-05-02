@@ -1,5 +1,14 @@
 # AI-Powered Text Summarization Tool
 
+**COMPANY**: CODTECH IT SOLUTIONS
+**NAME**: MD SAMIR AKHTAR
+**INTERN ID**: CTIS9348
+**DOMAIN**: ARTIFICIAL INTELLIGENCE
+**DURATION**: 8 WEEKS
+**MENTOR**: NEELA SANTOSH
+**DESCRIPTION**: 
+
+
 ## Introduction
 
 In an era of information overload, the ability to quickly distill large volumes of text into digestible summaries is more critical than ever. The **AI-Powered Text Summarization Tool** is a sophisticated Python application designed to tackle this challenge head-on. By leveraging advanced Natural Language Processing (NLP) techniques, this tool empowers users to transform lengthy articles, reports, and documents into concise, high-quality summaries in a matter of seconds. Whether you are a student scanning academic papers, a professional reviewing industry reports, or a casual reader looking to save time, this tool serves as your personal "AI Reading Assistant," ensuring you capture the essence of any text without getting bogged down by unnecessary details.
