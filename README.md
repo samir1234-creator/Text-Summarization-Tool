@@ -1,14 +1,18 @@
-# AI-Powered Text Summarization Tool
+# Text Summarization Tool
 
 **COMPANY**: CODTECH IT SOLUTIONS
+
 **NAME**: MD SAMIR AKHTAR
+
 **INTERN ID**: CTIS9348
+
 **DOMAIN**: ARTIFICIAL INTELLIGENCE
+
 **DURATION**: 8 WEEKS
+
 **MENTOR**: NEELA SANTOSH
+
 **DESCRIPTION**: 
-
-
 ## Introduction
 
 In an era of information overload, the ability to quickly distill large volumes of text into digestible summaries is more critical than ever. The **AI-Powered Text Summarization Tool** is a sophisticated Python application designed to tackle this challenge head-on. By leveraging advanced Natural Language Processing (NLP) techniques, this tool empowers users to transform lengthy articles, reports, and documents into concise, high-quality summaries in a matter of seconds. Whether you are a student scanning academic papers, a professional reviewing industry reports, or a casual reader looking to save time, this tool serves as your personal "AI Reading Assistant," ensuring you capture the essence of any text without getting bogged down by unnecessary details.
@@ -18,7 +22,9 @@ In an era of information overload, the ability to quickly distill large volumes 
 At its core, this tool is built on a robust and modern Python stack, prioritizing both performance and developer efficiency:
 
 1.  **spaCy (NLP Engine)**: The heavy lifting of language understanding is handled by spaCy, one of the most powerful and industrial-strength libraries for NLP in Python. Specifically, it utilizes the `en_core_web_sm` model—a lightweight yet effective English pipeline that includes a tokenizer, tagger, parser, and entity recognizer. This allows the tool to understand the grammatical structure of sentences and the significance of individual words.
+
 2.  **Rich (Terminal UI)**: To bridge the gap between technical logic and user-friendly interaction, the tool incorporates the `rich` library. This transforms a standard command-line interface into a visually appealing dashboard, featuring colorful panels, progress bars, and formatted text that make the experience feel "premium" and intuitive.
+
 3.  **Heapq (Ranking Algorithm)**: The selection of the most important sentences is optimized using the `heapq` module, specifically the `nlargest` function. This ensures that the ranking process is computationally efficient, even when dealing with larger documents.
 
 ## How the NLP Pipeline Works
