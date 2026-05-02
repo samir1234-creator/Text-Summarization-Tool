@@ -64,4 +64,4 @@ To enhance the feeling of "AI at work," a real-time progress bar (powered by `ri
 The **AI-Powered Text Summarization Tool** is more than just a script; it is a bridge between complex linguistic theory and practical everyday utility. By combining the precision of spaCy with the elegance of the Rich library, it provides a high-end, reliable solution for anyone looking to optimize their reading habits and master the art of information management.
 
 **OUTPUT**:
-https://github.com/samir1234-creator/Text-Summarization-Tool/issues/1#issue-4368307100
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9b35f05e-83a8-477a-9358-71084e7ef216" />
