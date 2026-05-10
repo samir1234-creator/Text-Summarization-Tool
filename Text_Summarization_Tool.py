@@ -10,7 +10,6 @@ import time
 console = Console()
 
 def generate_summary(text, ratio=0.3):
-    """Refined NLP logic for concise summaries."""
     try:
         nlp = spacy.load('en_core_web_sm')
         doc = nlp(text)
